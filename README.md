@@ -23,7 +23,7 @@ This application was built to develop and practice my skills with mySQL and Node
 
 ## Demo
 
-![Watch the video](img\Employee Tracker.gif)
+![Watch the video](./img/Employee-Tracker.gif)
 
 ## Link to Video
 
