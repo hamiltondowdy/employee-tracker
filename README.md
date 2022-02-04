@@ -23,4 +23,4 @@ This application was built to develop and practice my skills with mySQL and Node
 
 ## Demo
 
-![Watch the video](https://drive.google.com/file/d/105jmChb8C6Smh-xClhma72FLFVYgJMKn/view)
+[![Watch the video](https://drive.google.com/file/d/105jmChb8C6Smh-xClhma72FLFVYgJMKn/view)
